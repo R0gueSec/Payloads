@@ -1,0 +1,7 @@
+whoami
+w'h'o'am'i
+w"h"o"am"i
+who^ami
+WhOaMi
+iex "$('imaohw'[-1..-20] -join '')"
+iex "$([System.Text.Encoding]::Unicode.GetString([System.Convert]::FromBase64String('dwBoAG8AYQBtAGkA')))"
